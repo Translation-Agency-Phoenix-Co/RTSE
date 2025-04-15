@@ -38,4 +38,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, please contact the developer:
 - Developer: FILLDOR
-- telegram: King_of_the_all_Cookies
+- Telegram: King_of_the_all_Cookies
