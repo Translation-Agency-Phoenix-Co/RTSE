@@ -38,4 +38,4 @@ This project is licensed under the Apache License. See the [LICENSE](LICENSE) fi
 
 If you have any questions or suggestions, please contact the developer:
 - Developer: FILLDOR
-- Telegram: King_of_the_all_Cookies
+- Telegram: @King_of_the_all_Cookies
